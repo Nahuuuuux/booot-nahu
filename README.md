@@ -7,7 +7,7 @@
 > https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
 ### `NECESITAS AYUDA?, CONTACTAME`
-<a href="https://wa.me/5492645569915" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/5492645569915" target="blank"><img src="https://img.shields.io/badge/Nahuuu-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 ### `AJUSTES`
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/BrunoSobrino/ShadowBotV3/blob/master/config.js)
